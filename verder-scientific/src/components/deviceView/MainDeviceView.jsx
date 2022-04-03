@@ -9,12 +9,9 @@ import DeviceInfo from './DeviceInfo';
 const MainDeviceView = () => {
   const [device, setDevice] = useState({});
   let { DeviceId } = useParams();
-  console.log(DeviceId);
 
   useEffect(() => {
-    console.log('inside');
     axios.get(`http://localhost:8000/devices/${DeviceId}`).then((res) => {
-      console.log(res);
       setDevice(res.data);
     });
   }, [DeviceId]);
