@@ -1,0 +1,72 @@
+[
+  {
+    "id": "61e61e0c-15a0-4047-a3b9-8691aa6976cd",
+    "image": "/img/pic-onh-p2.webp",
+    "name": "ELEMENTRAC ONH‑p 2",
+    "description": "The new ELEMENTRAC ONH-p 2 is a powerful and robust elemental analyzer for measurement of oxygen, nitrogen and hydrogen concentrations in inorganic materials like steel, iron, copper or ceramics. The highly sensitive NDIR and thermal conductivity detectors reliably detect element concentrations from low ppm content to high percentages.",
+    "status": true
+  },
+  {
+    "id": "d5000feb-48b6-44eb-b41e-cda7f92969de",
+    "image": "/img/aaf-113.webp",
+    "name": "ASHING FURNACE AAF - 3 & 7 LITRES",
+    "description": "The AAF 11/3 & AAF 11/7 ashing furnaces provide a continuous flow of preheated air through the chamber, and are designed to comply with ISO 1171:2010, ASTM D3174-04: 2010 and ASTM D4422.",
+    "status": true
+  },
+  {
+    "id": "1f1c19e0-1a7d-4d9b-85c3-529d568207f0",
+    "image": "/img/main-cutting-qcut-150m.webp",
+    "name": "QCUT 150 M",
+    "description": "he Qcut 150 M is a manual precision cut-off machine with manual cross feed and cutting discs up to a size of 203mm / 8', suitable for a wide range of materialographic and metallographic cutting applications.",
+    "status": false
+  },
+  {
+    "id": "6e2a6c01-8f83-40bb-870a-7392d38dbcec",
+    "image": "/img/aaf-113.webp",
+    "name": "ASHING FURNACE AAF - 3 & 7 LITRES",
+    "description": "The AAF 11/3 & AAF 11/7 ashing furnaces provide a continuous flow of preheated air through the chamber, and are designed to comply with ISO 1171:2010, ASTM D3174-04: 2010 and ASTM D4422.",
+    "status": false
+  },
+  {
+    "id": "f596a2ce-c10c-4ddd-a28c-e590a52a3a1a",
+    "image": "/img/main-cutting-qcut-150m.webp",
+    "name": "QCUT 150 M",
+    "description": "he Qcut 150 M is a manual precision cut-off machine with manual cross feed and cutting discs up to a size of 203mm / 8', suitable for a wide range of materialographic and metallographic cutting applications.",
+    "status": true
+  },
+  {
+    "id": "b1f0de85-2393-452a-9e4a-8580b9b52d68",
+    "image": "/img/aaf-113.webp",
+    "name": "ASHING FURNACE AAF - 3 & 7 LITRES",
+    "description": "The AAF 11/3 & AAF 11/7 ashing furnaces provide a continuous flow of preheated air through the chamber, and are designed to comply with ISO 1171:2010, ASTM D3174-04: 2010 and ASTM D4422.",
+    "status": true
+  },
+  {
+    "id": "48b09f34-dcb1-446e-beb2-192b6535303b",
+    "image": "/img/pic-onh-p2.webp",
+    "name": "ELEMENTRAC ONH‑p 2",
+    "description": "The new ELEMENTRAC ONH-p 2 is a powerful and robust elemental analyzer for measurement of oxygen, nitrogen and hydrogen concentrations in inorganic materials like steel, iron, copper or ceramics. The highly sensitive NDIR and thermal conductivity detectors reliably detect element concentrations from low ppm content to high percentages.",
+    "status": true
+  },
+  {
+    "id": "e8144294-7ff9-4601-8b50-81d5188d3c67",
+    "image": "/img/main-cutting-qcut-150m.webp",
+    "name": "QCUT 150 M",
+    "description": "he Qcut 150 M is a manual precision cut-off machine with manual cross feed and cutting discs up to a size of 203mm / 8', suitable for a wide range of materialographic and metallographic cutting applications.",
+    "status": false
+  },
+  {
+    "id": "5bac541b-7731-4a36-a073-3c3db98f0af2",
+    "image": "/img/aaf-113.webp",
+    "name": "ASHING FURNACE AAF - 3 & 7 LITRES",
+    "description": "The AAF 11/3 & AAF 11/7 ashing furnaces provide a continuous flow of preheated air through the chamber, and are designed to comply with ISO 1171:2010, ASTM D3174-04: 2010 and ASTM D4422.",
+    "status": false
+  },
+  {
+    "id": "6cda5c44-0243-4bf3-8d34-e22d0f621219",
+    "image": "/img/main-cutting-qcut-150m.webp",
+    "name": "QCUT 150 M",
+    "description": "he Qcut 150 M is a manual precision cut-off machine with manual cross feed and cutting discs up to a size of 203mm / 8', suitable for a wide range of materialographic and metallographic cutting applications.",
+    "status": true
+  }
+]
